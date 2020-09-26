@@ -3,13 +3,13 @@
     {
       "title": "Blender v2.8",
       "subtitle": "test for render !",
-      "color": "2,0,36,0.7",
+      "color": "2,0,36,0.5",
       "image": "https://i.imgur.com/IMfrjqoh.png"
     },
     {
       "title": "Icon image",
       "subtitle": "Icon image",
-      "color": "2,0,36,0.7",
+      "color": "2,0,36,0.5",
       "image": "https://i.imgur.com/1CT7JYr.jpg"
     }
   ]
