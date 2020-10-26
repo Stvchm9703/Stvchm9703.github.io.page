@@ -1,5 +1,5 @@
 {
-  "last_update": "2020-10-17 00:29:30",
+  "last_update": "2020-10-26 12:48:04",
   "index": 0,
   "posts": [
     {
@@ -9,6 +9,16 @@
       "tag": [
         "flutter",
         "not-yet-test"
+      ]
+    },
+    {
+      "name" : "Nuxtjs - real univeral",
+      "file_name":"nuxt-for-real-univeral.md",
+      "last_update" : "2020-10-26 12:50:49",
+      "tag" : [
+        "nuxtjs",
+        "vuejs",
+        "SSR"
       ]
     }
   ]
